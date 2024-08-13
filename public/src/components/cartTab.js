@@ -236,3 +236,5 @@ const CartTab = () => {
 
 export default CartTab;
 
+// CartTab.js Updated
+
